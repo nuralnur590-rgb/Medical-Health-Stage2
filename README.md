@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Medical-Health — Dermatology Mobile Application
 
 A Kazakh-language mobile application built with Expo, React Native, and TypeScript. The visual direction follows the supplied Skin Firsts dermatology UI reference: blue primary color, white surfaces, pale-blue cards, rounded controls, and bottom navigation.
@@ -57,3 +58,6 @@ npx tsc --noEmit
 ## Medical disclaimer
 
 The application is not a diagnostic device and does not replace an examination or consultation with a qualified healthcare professional.
+=======
+# Medical-Health-Stage2
+>>>>>>> df0641f60be6ed040ba582eebb81f5422631e645
