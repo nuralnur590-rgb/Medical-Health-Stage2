@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "Medical-Health",
+    "slug": "medical-health",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#2864F5"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
